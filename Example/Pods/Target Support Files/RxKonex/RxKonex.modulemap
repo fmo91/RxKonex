@@ -1,0 +1,6 @@
+framework module RxKonex {
+  umbrella header "RxKonex-umbrella.h"
+
+  export *
+  module * { export * }
+}

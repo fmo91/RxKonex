@@ -1,0 +1,16 @@
+PODS:
+  - RxKonex (0.1.0)
+
+DEPENDENCIES:
+  - RxKonex (from `../`)
+
+EXTERNAL SOURCES:
+  RxKonex:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RxKonex: 591f2fa695f1b3a1dc498e23f6fe37b14d430427
+
+PODFILE CHECKSUM: 72575e3ed6316a5e6e7823ba0d84456fe1bc5691
+
+COCOAPODS: 1.1.1
